@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/AdityaSen-1606/AdityaSen-1606/assets/76251309/f599ac54-95ec-4fd4-b18a-1c6a32ded2c7" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/AdityaSen-1606/AdityaSen-1606/assets/76251309/f599ac54-95ec-4fd4-b18a-1c6a32ded2c7" height = 250px ></picture>
 
 <br>
 
