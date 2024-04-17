@@ -19,6 +19,7 @@
 - I’m currently open for an Intern or a new job opportunity
 - connect me over:[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sen-1606as2002/) , [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:adityasen1606@gmail.com)
 - Refer my resume: [![Resume](https://github.com/AdityaSen-1606/AdityaSen-1606/assets/76251309/97292083-06a3-46a4-8dcd-49aa2c70da89)](https://drive.google.com/file/d/1CkG1pRrxkUvl23QxYrWdDz9FzGwHlF8z/view?usp=drive_link)
+- Codeforces Profile: [![CF](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/MaiAditya)
 
 <br><be>
 
@@ -29,7 +30,7 @@
 
 <p align="center">
 
-[![CF](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/MaiAditya)
+
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![JS](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![JSX](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
