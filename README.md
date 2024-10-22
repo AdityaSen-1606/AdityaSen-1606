@@ -19,7 +19,7 @@
 - connect me over:[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sen-1606as2002/) , [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:adityasen1606@gmail.com)
 - Refer my resume: [![Resume](https://github.com/AdityaSen-1606/AdityaSen-1606/assets/76251309/97292083-06a3-46a4-8dcd-49aa2c70da89)](https://drive.google.com/file/d/1sHNQEJF3H5ZQernIUo8xj7m_tRUIam6S/view?usp=sharing)
 - Expert on Codeforces: [![CF](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/MaiAditya)
-- Portfolio: [Direct](https://port-folio-blue-seven.vercel.app/)
+- Portfolio: [Namaste: Know me more...](https://port-folio-blue-seven.vercel.app/)
 
 <br><be>
 
